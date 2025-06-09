@@ -50,7 +50,8 @@ Change Client-1's DNS settings to use DC-1's private IP address and restart the 
 1. Open **Server Manager**
 2. Select **Add roles and features**
 
-![Server Manager - Add Roles](https://i.imgur.com/DQz8fMX.png)
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 3. Choose **Role-based or feature-based installation**
 
